@@ -1,9 +1,5 @@
 # Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 
-## NAME : JAI HARISH R
-## REG : 212224040124
-
-
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
@@ -87,6 +83,14 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** JAI HARISH R
+
+
+
+**Reg No:** 212224040124
+
+
+
+
 **Course:** Introduction to Cloud Computing  
 
