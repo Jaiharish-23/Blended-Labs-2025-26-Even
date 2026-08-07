@@ -1,5 +1,9 @@
 # Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 
+## NAME : JAI HARISH R
+## REG : 212224040124
+
+
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
@@ -30,12 +34,22 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 **Screenshot:**  
 (Add screenshot here)
 
+<img width="1917" height="948" alt="image" src="https://github.com/user-attachments/assets/b60cc0a4-3aed-472b-a6e9-e529dc3c206e" />
+
+
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
 (Add screenshot here)
+
+<img width="1916" height="995" alt="image" src="https://github.com/user-attachments/assets/aabe754f-e2ef-45fd-94f8-2d6a11249351" />
+
+<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/6dc30824-8679-47a1-bd43-3a30e442f098" />
+
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/649ae5c4-4211-4868-bc71-e8ed5c9fbbd7" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -44,6 +58,13 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
 (Add screenshot here)
+
+<img width="1910" height="1057" alt="image" src="https://github.com/user-attachments/assets/cef8322d-24bc-4c7e-b318-95d7f6884008" />
+
+
+<img width="1916" height="1042" alt="image" src="https://github.com/user-attachments/assets/d640230a-1ebe-47f8-b402-b51475f63c41" />
+
+<img width="1892" height="1036" alt="image" src="https://github.com/user-attachments/assets/4c1018e2-83eb-4485-b8b0-732da58e88ab" />
 
 
 ## Workflow
